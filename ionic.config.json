@@ -1,0 +1,7 @@
+{
+  "name": "modal-backdrop-dismiss",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
